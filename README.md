@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Checkout my GitHub Wiki writing API sample using markdown [here](https://github.com/marie13-test/user-assistance-marie/wiki/Marie's-Portfolio-Sample)
 
-I have written a feaure spec using oxygen editor and DITA, it can be accessed [here]()
+I have written a feaure spec using oxygen editor and DITA, it can be accessed [here](https://github.com/marie13-test/user-assistance-marie/blob/main/sample%20of%20PDF%20using%20Oxygen.pdf)
 
 ### Markdown
 
