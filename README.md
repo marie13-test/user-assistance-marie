@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/marie13-test/user-assistan
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Checkout my GitHub Wiki writing API sample using markdown [here]()
+
+I have written a feaure spec using oxygen editor and DITA, it can be accessed [here]()
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
