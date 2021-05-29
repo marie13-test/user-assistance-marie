@@ -1,41 +1,22 @@
-## Welcome to GitHub Pages
+Here are documentation samples that I have created using different tools and editors to demonstrate familiarity of working with them.   
+Some documents are re-created from my earlier work after redacting and re-editing proprietory content.
 
-You can use the [editor on GitHub](https://github.com/marie13-test/user-assistance-marie/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+##Document Samples   
+[Sample Feature Specification](https://raw.githubusercontent.com/marie13-test/user-assistance-marie/main/USB_Feature_Doc.pdf)   
+This is a feature document that explains the concept, architecture of the system, requirements and implementation details of the new feature.   
+It is for use of developers, testers, architects and product owners.   
+It is a PDF document written in the **DITA** model using **OxygenXML Editor**.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Checkout my GitHub Wiki writing API sample using markdown [here](https://github.com/marie13-test/user-assistance-marie/wiki/Sample-API-reference-and-user-manuals)
+[Sample API Documentation](https://github.com/marie13-test/user-assistance-marie/wiki/Sample-API-reference-and-user-manuals)   
+They describe component API C-functions for use by developers and integrators of the interfacing components.   
+The Reference Manual details the syntax, parameters, return values and specific actions performed by the APIs.   
+The User Manual describes the overall functionality and usage of the APIs.   
+It is documented in **GitHub Wiki** using **Markdown**.   
 
-I have written a feaure spec using oxygen editor and DITA, it can be accessed [here](https://raw.githubusercontent.com/marie13-test/user-assistance-marie/main/USB_Feature_Doc.pdf) 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marie13-test/user-assistance-marie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
