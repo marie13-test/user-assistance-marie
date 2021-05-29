@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Checkout my GitHub Wiki writing API sample using markdown [here](https://github.com/marie13-test/user-assistance-marie/wiki/Sample-API-reference-and-user-manuals)
 
-I have written a feaure spec using oxygen editor and DITA, it can be accessed [here](https://raw.githubusercontent.com/marie13-test/user-assistance-marie/main/USB_Feature_Doc.pdf)
+I have written a feaure spec using oxygen editor and DITA, it can be accessed [here](https://raw.githubusercontent.com/marie13-test/user-assistance-marie/main/USB_Feature_Doc.pdf) 
 
 ### Markdown
 
