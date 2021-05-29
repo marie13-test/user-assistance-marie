@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/marie13-test/user-assistan
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Checkout my GitHub Wiki writing API sample using markdown [here](https://github.com/marie13-test/user-assistance-marie/wiki/Marie's-Portfolio-Sample)
+Checkout my GitHub Wiki writing API sample using markdown [here](https://github.com/marie13-test/user-assistance-marie/wiki/Sample-API-reference-and-user-manuals)
 
-I have written a feaure spec using oxygen editor and DITA, it can be accessed [here](https://github.com/marie13-test/user-assistance-marie/blob/main/sample%20of%20PDF%20using%20Oxygen.pdf)
+I have written a feaure spec using oxygen editor and DITA, it can be accessed [here](https://raw.githubusercontent.com/marie13-test/user-assistance-marie/main/sample%20of%20PDF%20using%20Oxygen.pdf)
 
 ### Markdown
 
